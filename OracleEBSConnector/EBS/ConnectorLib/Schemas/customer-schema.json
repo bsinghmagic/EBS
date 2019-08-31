@@ -1,0 +1,159 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "title": "Customer JSON Schema",
+
+  "definitions": {
+    "Account": {
+      "type": "object",
+      "properties": {
+        "Description": { "type": "string" },
+        "Id": { "type": "string"},
+        "IsInactive": { "type": "boolean" },
+        "Classification": {
+          "type": "string" ,
+          "enum": [
+            "Cash",
+            "Receivable",
+            "Inventory",
+            "ReceivableRetainage",
+            "OtherCurrentAsset",
+            "FixedAsset",
+            "AccumulatedDepreciation",
+            "OtherAssets",
+            "Payable",
+            "PayableRetainage",
+            "OtherCurrentLiability",
+            "OtherLiability",
+            "EquityNoClose",
+            "RetainedEarnings",
+            "EquityClose",
+            "Income",
+            "CostSales",
+            "Expense"
+          ]
+        }
+      },
+      "required": [ "Id", "Classification" ]
+    },
+
+    "Address": {
+      "type": "object",
+      "properties": {
+        "Address1": { "type": "string" },
+        "Address2": { "type": "string" },
+        "City": { "type": "string" },
+        "Country": { "type": "string" },
+        "SalesTaxCode": { "type": "string" },
+        "State": { "type": "string" },
+        "Zip": { "type": "string" }
+      },
+      "required": [ "Address1" ]
+    },
+
+    "Contact": {
+      "type": "object",
+      "properties": {
+        "Address": { "$ref": "#/definitions/Address" },
+        "CompanyName": { "type": "string" },
+        "Email": { "type": "string" },
+        "FirstName": { "type": "string" },
+        "Gender": {
+          "type": "string",
+          "enum": [
+            "NotSpecified", 
+            "Male", 
+            "Female" 
+          ]
+        },
+        "LastName": { "type": "string" },
+        "MiddleInitial": { "type": "string" },
+        "NameToUseOnForms": {
+          "type": "string",
+          "enum": [
+            "ContactName", 
+            "CompanyName" 
+          ]
+        },
+        "Notes": { "type": "string" },
+        "PhoneNumbers": {
+          "type": [ "array" ],
+          "maxItems": 3,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/definitions/PhoneNumber"
+          },
+          "Prefix": { "type": "string" },
+          "Suffix": { "type": "string" },
+          "Title": { "type": "string" }
+        }
+      },
+      "required": [ "LastName", "FirstName" ]
+    },
+
+    "PhoneNumber": {
+      "type": "object",
+      "properties": {
+        "Number": { "type": "string" },
+        "Key": {
+          "type": "string",
+          "enum": [
+            "NotUsed", 
+            "PhoneNumber1", 
+            "PhoneNumber2", 
+            "Fax1", 
+            "Fax2", 
+            "Mobile1",
+            "Mobile2" 
+          ]
+        }
+      },
+      "required": [ "Number", "Key" ]
+    }
+  },
+
+  "type": "object",
+  "properties": {
+    "AccountNumber": { "type": "string" },
+    "BillToContact": { "$ref": "#/definitions/Contact" },
+    "CashAccount": { "$ref": "#/definitions/Account" },
+    "Category": { "type": "string" },
+    "CreditStatus": {
+      "type": "string",
+      "enum": [
+        "NoLimit",
+        "NotifyOverLimit",
+        "Notify",
+        "HoldoverLimit",
+        "Hold"
+      ]
+    },
+    "CustomerSince": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "Email": { "type": "string" },
+    "IsInactive": { "type": "boolean" },
+    "IsProspect": { "type": "boolean" },
+    "ExternalId": { "type": "string" },
+    "Name": { "type": "string" },
+    "OpenPurchaseOrderNumber": { "type": "string" },
+    "PaymentMethod": { "type": "string" },
+    "PhoneNumbers": {
+      "type": [ "array" ],
+      "items": { "$ref": "#/definitions/PhoneNumber" }
+    },
+    "PriceLevel": { "type": "integer" },
+    "ReplaceInventoryItemIDWithPartNumber": { "type": "boolean" },
+    "ReplaceInventoryItemIDWithUPC": { "type": "boolean" },
+    "ResaleNumber": { "type": "string" },
+    "ShipToContact": { "$ref": "#/definitions/Contact" },
+    "ShipVia": { "type": "string" },
+    "WebSiteURL": { "type": "string" },
+    "UseEmailToDeliverForms": { "type": "boolean" },
+    "UsualSalesAccount": { "$ref": "#/definitions/Account" }
+  },
+  "required": [
+    "ExternalId",
+    "Name"
+  ]
+}

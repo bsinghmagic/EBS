@@ -1,0 +1,63 @@
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\ODBC\bin\Debug\ODBC.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\ODBC\bin\Debug\ODBC.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\ODBC\obj\Debug\ODBC.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\ODBC\obj\Debug\ODBC.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\ODBC\obj\Debug\ODBC.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\ODBC\obj\Debug\ODBC.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\ODBC\bin\Debug\ODBC.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\ODBC\bin\Debug\ODBC.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\ODBC\obj\Debug\ODBC.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\ODBC\obj\Debug\ODBC.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\ODBC\obj\Debug\ODBC.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\ODBC\obj\Debug\ODBC.pdb
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll.config
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.pdb
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csprojAssemblyReference.cache
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CoreCompileInputs.cache
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CopyComplete
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.dll
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.pdb
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll.config
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.pdb
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csprojAssemblyReference.cache
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CoreCompileInputs.cache
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CopyComplete
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.dll
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll.config
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CopyComplete
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\bin\Debug\ODBC.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\ODBC\obj\Debug\ODBC.pdb

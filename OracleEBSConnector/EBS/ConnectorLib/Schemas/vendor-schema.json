@@ -1,0 +1,77 @@
+﻿{
+  "type": "object",
+  "title": "The Root",
+  "required": [
+    "VendorID",
+    "Name",
+    "PhoneNumber",
+    "FAXNumber",
+    "OurAccountWithThem",
+    "VendorType",
+    "GLAcntNumber"
+  ],
+  "properties": {
+    "VendorID": {
+      "type": "string",
+      "title": "The Vendorid",
+      "default": "",
+      "examples": [
+        "DEJULIA1"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "Name": {
+      "type": "string",
+      "title": "The Name",
+      "default": "",
+      "examples": [
+        "DeJulia Wholesale Suppliers"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "PhoneNumber": {
+      "type": "string",
+      "title": "The Phonenumber",
+      "default": "",
+      "examples": [
+        "770-555-0000"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "FAXNumber": {
+      "type": "string",
+      "title": "The Faxnumber",
+      "default": "",
+      "examples": [
+        "770-555-0010"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "OurAccountWithThem": {
+      "type": "string",
+      "title": "The Ouraccountwiththem",
+      "default": "",
+      "examples": [
+        "BEL005"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "VendorType": {
+      "type": "string",
+      "title": "The Vendortype",
+      "default": "",
+      "examples": [
+        "REPAIR"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "GLAcntNumber": {
+      "type": "integer",
+      "title": "The Glacntnumber",
+      "default": 0,
+      "examples": [
+        151
+      ]
+    }
+  }
+}

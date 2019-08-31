@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9971D8F-5FEF-4C09-B65C-8DE8177EC6AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ConnectorUI</RootNamespace>
+    <AssemblyName>ConnectorUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.18.3, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Oracle.ManagedDataAccess.18.3.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAddCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddCompany.Designer.cs">
+      <DependentUpon>frmAddCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoader.Designer.cs">
+      <DependentUpon>frmLoader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMoreInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMoreInformation.Designer.cs">
+      <DependentUpon>frmMoreInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotificationSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotificationSettings.Designer.cs">
+      <DependentUpon>frmNotificationSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectorControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConnectorControl.Designer.cs">
+      <DependentUpon>ConnectorControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Connector.cs" />
+    <Compile Include="ConnectorConfiguration.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Util.cs" />
+    <EmbeddedResource Include="frmAddCompany.resx">
+      <DependentUpon>frmAddCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoader.resx">
+      <DependentUpon>frmLoader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMoreInformation.resx">
+      <DependentUpon>frmMoreInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotificationSettings.resx">
+      <DependentUpon>frmNotificationSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectorControl.resx">
+      <DependentUpon>ConnectorControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ebsicons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ebs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\mt_icon.ico" />
+    <None Include="Resources\mt.png" />
+    <None Include="Resources\mineraltree_logo.png" />
+    <None Include="Resources\loader.gif" />
+    <None Include="Resources\loader1.gif" />
+    <Content Include="Resources\magic.jpg" />
+    <None Include="Resources\magicicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\SharedLib\Entity\ConnectorEntity.csproj">
+      <Project>{6c77d23e-63f6-4759-a5c4-6c02c3b6ebe3}</Project>
+      <Name>ConnectorEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SharedLib\ODBC\ODBC.csproj">
+      <Project>{f545fe3f-9f7d-4f5a-90a8-5b6fe284dcaa}</Project>
+      <Name>ODBC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SharedLib\Tulpep.NotificationWindow\Tulpep.NotificationWindow.csproj">
+      <Project>{605006eb-d4e6-4312-a293-3a43fac43240}</Project>
+      <Name>Tulpep.NotificationWindow</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SharedLib\Utility\Utility.csproj">
+      <Project>{1ba2dc62-683c-4894-8ddc-e4002e60050e}</Project>
+      <Name>Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SharedLib\WebClient\WebClientUtility.csproj">
+      <Project>{cbeec4d5-9111-48e5-a79a-de206ef71532}</Project>
+      <Name>WebClientUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConnectorLib\ConnectorLib.csproj">
+      <Project>{bb5c2480-897b-413d-a732-b941e1194e91}</Project>
+      <Name>ConnectorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConnectorModel\ConnectorModel.csproj">
+      <Project>{D900A147-94AA-40EE-9D52-BA4BFBCC0A70}</Project>
+      <Name>ConnectorModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

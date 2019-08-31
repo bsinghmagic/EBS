@@ -1,0 +1,27 @@
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\bin\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\bin\Release\ConnectorModel.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\bin\Release\log4net.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\bin\Release\log4net.xml
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csproj.CopyComplete
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\bin\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\bin\Release\ConnectorModel.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\bin\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\bin\Release\ConnectorModel.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorModel\obj\Release\ConnectorModel.pdb

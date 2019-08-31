@@ -1,0 +1,120 @@
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.exe.config
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.exe
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorEntity.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\log4net.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Utility.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\LiteDB.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorEntity.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.dll.config
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Utility.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.dll.config
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorModel.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\log4net.xml
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\bin\Release\LiteDB.xml
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmAddCompany.resources
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmLoader.resources
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmMain.resources
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmMoreInformation.resources
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmNotificationSettings.resources
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.ConnectorControl.resources
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.Properties.Resources.resources
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.CopyComplete
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.exe
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.exe.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.exe
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Utility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\LiteDB.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Utility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorModel.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\bin\Release\LiteDB.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmAddCompany.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmLoader.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmMain.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmMoreInformation.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmNotificationSettings.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.ConnectorControl.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.Properties.Resources.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.exe
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.exe.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.exe
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorUI.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorModel.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Utility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\LiteDB.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ODBC.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Utility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorLib.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\ConnectorModel.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\bin\Release\LiteDB.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmAddCompany.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmLoader.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmMain.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmMoreInformation.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.frmNotificationSettings.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.ConnectorControl.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.Properties.Resources.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.exe
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorUI\obj\Release\ConnectorUI.pdb

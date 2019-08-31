@@ -1,0 +1,6 @@
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\ORACLE_EBS\EBSModel\bin\Release\EBSModel.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\ORACLE_EBS\EBSModel\bin\Release\EBSModel.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\ORACLE_EBS\EBSModel\obj\Release\EBSModel.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\ORACLE_EBS\EBSModel\obj\Release\EBSModel.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\ORACLE_EBS\EBSModel\obj\Release\EBSModel.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\ORACLE_EBS\EBSModel\obj\Release\EBSModel.pdb

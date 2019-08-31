@@ -1,0 +1,75 @@
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\bin\Release\WebClientUtility.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\bin\Release\WebClientUtility.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\bin\Release\ConnectorEntity.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\bin\Release\Newtonsoft.Json.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\bin\Release\ConnectorEntity.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\bin\Release\Newtonsoft.Json.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\bin\Release\Newtonsoft.Json.xml
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\obj\Release\WebClientUtility.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\obj\Release\WebClientUtility.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\obj\Release\WebClientUtility.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\obj\Release\WebClientUtility.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\WebClient\obj\Release\WebClientUtility.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\bin\Release\WebClientUtility.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\bin\Release\WebClientUtility.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\bin\Release\ConnectorEntity.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\bin\Release\ConnectorEntity.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\obj\Release\WebClientUtility.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\obj\Release\WebClientUtility.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\obj\Release\WebClientUtility.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\obj\Release\WebClientUtility.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\WebClient\obj\Release\WebClientUtility.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\bin\Release\WebClientUtility.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\bin\Release\WebClientUtility.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\bin\Release\ConnectorEntity.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\bin\Release\Newtonsoft.Json.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\bin\Release\ConnectorEntity.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\bin\Release\Newtonsoft.Json.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\bin\Release\Newtonsoft.Json.xml
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\obj\Release\WebClientUtility.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\obj\Release\WebClientUtility.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\obj\Release\WebClientUtility.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\obj\Release\WebClientUtility.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\WebClient\obj\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\ConnectorEntity.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\log4net.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\ConnectorEntity.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\log4net.xml
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csproj.CopyComplete
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\WebClientUtility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\WebClient\obj\Release\WebClientUtility.pdb

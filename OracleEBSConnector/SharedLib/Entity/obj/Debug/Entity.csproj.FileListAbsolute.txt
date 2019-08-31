@@ -1,0 +1,9 @@
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\Entity.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\Entity.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\Newtonsoft.Json.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\Newtonsoft.Json.xml
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\Entity.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\Entity.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\Entity.pdb

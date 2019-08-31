@@ -1,0 +1,72 @@
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\ConnectorEntity.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\ConnectorEntity.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\Newtonsoft.Json.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\bin\Debug\Newtonsoft.Json.xml
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\ConnectorEntity.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\ConnectorEntity.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\ConnectorEntity.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\ConnectorEntity.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Entity\obj\Debug\ConnectorEntity.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Entity\bin\Debug\ConnectorEntity.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Entity\bin\Debug\ConnectorEntity.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Entity\obj\Debug\ConnectorEntity.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Entity\obj\Debug\ConnectorEntity.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Entity\obj\Debug\ConnectorEntity.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Entity\obj\Debug\ConnectorEntity.pdb
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.dll
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.pdb
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.dll
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.pdb
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.xml
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csprojAssemblyReference.cache
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CoreCompileInputs.cache
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CopyComplete
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.dll
+D:\XPCProject\OracalEBS\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.pdb
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.dll
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.pdb
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.dll
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.pdb
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.xml
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csprojAssemblyReference.cache
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CoreCompileInputs.cache
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CopyComplete
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.dll
+D:\Magic\MagicNew\OracleEBSConnector\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CopyComplete
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\bin\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Entity\obj\Debug\ConnectorEntity.pdb

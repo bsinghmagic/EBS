@@ -1,0 +1,62 @@
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\bin\Release\Utility.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\bin\Release\Utility.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\bin\Release\Newtonsoft.Json.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\bin\Release\Newtonsoft.Json.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\bin\Release\Newtonsoft.Json.xml
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\obj\Release\Utility.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\obj\Release\Utility.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\obj\Release\Utility.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Utility\obj\Release\Utility.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Utility\bin\Release\Utility.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Utility\bin\Release\Utility.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Utility\obj\Release\Utility.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Utility\obj\Release\Utility.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Utility\obj\Release\Utility.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Utility\obj\Release\Utility.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Utility\obj\Release\Utility.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\bin\Release\Utility.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\bin\Release\Utility.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\bin\Release\Newtonsoft.Json.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\bin\Release\Newtonsoft.Json.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\bin\Release\Newtonsoft.Json.xml
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\obj\Release\Utility.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\obj\Release\Utility.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\obj\Release\Utility.csproj.CopyComplete
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\obj\Release\Utility.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Utility\obj\Release\Utility.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\bin\Release\Utility.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\bin\Release\Utility.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\bin\Release\log4net.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\bin\Release\log4net.xml
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csproj.CopyComplete
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\bin\Release\Utility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\bin\Release\Utility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\bin\Release\Utility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\bin\Release\Utility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Utility\obj\Release\Utility.pdb

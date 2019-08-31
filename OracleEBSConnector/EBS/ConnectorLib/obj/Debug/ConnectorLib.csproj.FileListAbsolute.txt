@@ -1,0 +1,81 @@
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.dll.config
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorModel.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\LiteDB.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Utility.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\WebClientUtility.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.dll.config
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Utility.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\WebClientUtility.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorModel.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\LiteDB.xml
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csproj.CopyComplete
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.dll
+C:\Users\admin\Desktop\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorModel.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\LiteDB.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Utility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\WebClientUtility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Utility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\WebClientUtility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorModel.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\LiteDB.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorLib.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorEntity.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorModel.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\LiteDB.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Utility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\WebClientUtility.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorEntity.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ODBC.dll.config
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Utility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\WebClientUtility.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\ConnectorModel.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\LiteDB.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\EBS\ConnectorLib\obj\Debug\ConnectorLib.pdb

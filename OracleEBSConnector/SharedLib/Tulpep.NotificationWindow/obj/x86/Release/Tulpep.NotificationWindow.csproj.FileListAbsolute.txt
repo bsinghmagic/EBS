@@ -1,0 +1,9 @@
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\bin\x86\Release\Tulpep.NotificationWindow.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\bin\x86\Release\Tulpep.NotificationWindow.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\x86\Release\Tulpep.NotificationWindow.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\x86\Release\Tulpep.NotificationWindow.PopupNotifierForm.resources
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\x86\Release\Tulpep.NotificationWindow.Properties.Resources.resources
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\x86\Release\Tulpep.NotificationWindow.csproj.GenerateResource.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\x86\Release\Tulpep.NotificationWindow.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\x86\Release\Tulpep.NotificationWindow.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\x86\Release\Tulpep.NotificationWindow.pdb

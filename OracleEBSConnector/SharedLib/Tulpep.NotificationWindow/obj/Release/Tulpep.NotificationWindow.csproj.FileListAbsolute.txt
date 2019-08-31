@@ -1,0 +1,61 @@
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.PopupNotifierForm.resources
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.Properties.Resources.resources
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.GenerateResource.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.dll
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.pdb
+D:\WorkSpace\MagicSoftware\XPC\Sage50Connector\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.pdb
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.PopupNotifierForm.resources
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.Properties.Resources.resources
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.GenerateResource.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.dll
+D:\WorkSpace\MagicSoftware\XPC\DesktopConnector\Shared_Lib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.pdb
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csprojAssemblyReference.cache
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.PopupNotifierForm.resources
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.Properties.Resources.resources
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.GenerateResource.cache
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.dll
+D:\WorkSpace\MagicSoftware\XPC\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\log4net.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\log4net.xml
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.PopupNotifierForm.resources
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.Properties.Resources.resources
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CopyComplete
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.PopupNotifierForm.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.Properties.Resources.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector 30-05-2019\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\Tulpep.NotificationWindow.pdb
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\log4net.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\bin\Release\log4net.xml
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.PopupNotifierForm.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.Properties.Resources.resources
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.dll
+C:\Users\admin\Desktop\New folder\OracleEBSConnector\SharedLib\Tulpep.NotificationWindow\obj\Release\Tulpep.NotificationWindow.pdb
